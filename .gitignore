@@ -1,0 +1,45 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+/build.gradle
+/CREDITS.txt
+/src/main/resources/assets/goatsmod/lang/en_us.lang
+/src/main/resources/assets/goatsmod/blockstates/firstblock.json
+/src/main/resources/assets/goatsmod/models/block/firstblock.json
+/src/main/resources/assets/goatsmod/models/item/firstblock.json
+/src/main/resources/assets/goatsmod/textures/blocks/firstblock.png
+/src/main/resources/assets/goatsmod/models/item/firstitem.json
+/src/main/resources/assets/goatsmod/textures/items/firstitem.png
+/forge-1.12.2-14.23.5.2768-changelog.txt
+/gradle.properties
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
+/LICENSE.txt
+/LICENSE-Paulscode IBXM Library.txt
+/LICENSE-Paulscode SoundSystem CodecIBXM.txt
+/src/main/resources/mcmod.info
+/src/main/resources/pack.mcmeta
+/README.txt
+/src/main/resources/assets/goatsmod/recipes/shaped.json
+/src/main/resources/assets/goatsmod/recipes/shapeless.json
